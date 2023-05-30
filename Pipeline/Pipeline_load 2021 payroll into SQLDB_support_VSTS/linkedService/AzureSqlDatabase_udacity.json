@@ -1,0 +1,14 @@
+{
+    "name": "AzureSqlDatabase_udacity",
+    "properties": {
+        "annotations": [],
+        "type": "AzureSqlDatabase",
+        "typeProperties": {
+            "connectionString": "Integrated Security=False;Encrypt=True;Connection Timeout=30;Data Source=hei-aep-vn001-d-we-ass-01.database.windows.net;Initial Catalog=db_nycpayroll"
+        },
+        "connectVia": {
+            "referenceName": "AutoResolveIntegrationRuntime",
+            "type": "IntegrationRuntimeReference"
+        }
+    }
+}

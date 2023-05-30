@@ -1,0 +1,7 @@
+selected resource name:		dataflowtitle
+selected resource type:		dataflow
+factory name:			hei-aep-vn001-d-we-adf-01
+factory location:		westeurope
+subscription id:		99149dbb-f505-4eb9-901a-c82ba247986c
+data flow session id:		05c9bd1b-3c39-46d3-bf15-25012f80e4e0
+time of download (UTC):		Tue, 30 May 2023 04:26:05 GMT

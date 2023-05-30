@@ -1,0 +1,24 @@
+{
+    "now": "2023-05-30T04:26:05.702Z",
+    "perfNow": 9240186.099999905,
+    "diagnosticCorrelation": "7c49ca72-2762-4b92-a377-6da128b14d33",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.052223.20",
+        "environmentType": 3,
+        "resourceName": "hei-aep-vn001-d-we-adf-01",
+        "resourceRegion": "westeurope",
+        "resourceGroup": "HEI-AEP-VN001-D-WE-RG-DXE-01",
+        "subscriptionId": "99149dbb-f505-4eb9-901a-c82ba247986c",
+        "sessionId": "Wr7fdY/V9sn1gluFq4XLDn",
+        "operationId": "",
+        "gitType": "VSTS",
+        "loggingKey": "0da22333-75a6-4e5d-9d36-9385f4c8f8af"
+    },
+    "additionalInfo": {
+        "selectedResource": "dataflowtitle",
+        "selectedResourceType": "dataflow",
+        "dataFlowSessionId": "05c9bd1b-3c39-46d3-bf15-25012f80e4e0"
+    }
+}

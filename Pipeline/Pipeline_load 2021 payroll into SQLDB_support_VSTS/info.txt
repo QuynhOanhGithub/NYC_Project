@@ -1,0 +1,7 @@
+selected resource name:		Pipeline_load 2021 payroll into SQLDB
+selected resource type:		pipeline
+factory name:			hei-aep-vn001-d-we-adf-01
+factory location:		westeurope
+subscription id:		99149dbb-f505-4eb9-901a-c82ba247986c
+data flow session id:		1ef1aef4-bec7-4d6d-9740-7ba41e8f8d46
+time of download (UTC):		Fri, 26 May 2023 16:01:17 GMT

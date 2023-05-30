@@ -1,0 +1,24 @@
+{
+    "now": "2023-05-26T16:01:17.544Z",
+    "perfNow": 2488661.2999999523,
+    "diagnosticCorrelation": "7f8d6bb1-bf02-40c3-b7e3-fa6e53b3c8d3",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.052223.20",
+        "environmentType": 3,
+        "resourceName": "hei-aep-vn001-d-we-adf-01",
+        "resourceRegion": "westeurope",
+        "resourceGroup": "HEI-AEP-VN001-D-WE-RG-DXE-01",
+        "subscriptionId": "99149dbb-f505-4eb9-901a-c82ba247986c",
+        "sessionId": "KFvQX3v1OucEuMIajKZBzd",
+        "operationId": "",
+        "gitType": "VSTS",
+        "loggingKey": "e74ceadb-521c-4aec-8dde-96e0af42330a"
+    },
+    "additionalInfo": {
+        "selectedResource": "Pipeline_load 2021 payroll into SQLDB",
+        "selectedResourceType": "pipeline",
+        "dataFlowSessionId": "1ef1aef4-bec7-4d6d-9740-7ba41e8f8d46"
+    }
+}
